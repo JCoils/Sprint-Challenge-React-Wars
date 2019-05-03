@@ -7,9 +7,6 @@ class App extends Component {
     super();
     this.state = {
       starwarsChars: [],
-      currentChar: null,
-      nextPage: null,
-      prevPage: null,
     };
   }
 

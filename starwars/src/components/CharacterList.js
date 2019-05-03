@@ -10,5 +10,9 @@ const CharacterList = (props) => {
     )
 }
 
+/*
+creating a new array with .map 
+*/
+
 
 export default CharacterList;
